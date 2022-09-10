@@ -28,3 +28,8 @@ I’m currently learning Node Js, React Native, and Flutter.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jtbrennan&style=flat-square&color=blue" alt=""/>
 </div>
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
