@@ -1,4 +1,7 @@
+
+
 <div id="header" align="center">
+  <h1>John Brennan</h1>
   <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
 </div>
 
@@ -34,7 +37,7 @@ I am a Front-End Developer and Marketing Analyst.
 
 - :zap: In my free time, I build Apps and play Guitar.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/john-brennan-25aaa1246/))
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-John Brennan-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/john-brennan-25aaa1246/))
 
 
 ---
@@ -52,6 +55,7 @@ I am a Front-End Developer and Marketing Analyst.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
 
