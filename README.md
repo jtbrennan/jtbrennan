@@ -1,14 +1,3 @@
-I’m John
-
-I’m interested in Technical Investigation Engineering.
-
-I’m currently learning Node Js, React Native, and Flutter.
-
-
-
-
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="100"/>
 </div>
