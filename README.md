@@ -25,4 +25,6 @@ I’m currently learning Node Js, React Native, and Flutter.
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=jtbrennan&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jtbrennan&style=flat-square&color=blue" alt=""/>
+</div>
