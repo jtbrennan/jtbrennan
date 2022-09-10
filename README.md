@@ -13,9 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=jtbrennan&style=flat-square&color=blue" alt=""/>
   
 </div>
-<div align="center">
 
-</div>
 
 
 ---
