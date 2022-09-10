@@ -5,7 +5,7 @@ I’m interested in Technical Investigation Engineering.
 I’m currently learning Node Js, React Native, and Flutter.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
+
 
 
 
@@ -71,3 +71,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
+</div>
+
+
+
