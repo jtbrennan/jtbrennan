@@ -8,8 +8,9 @@ I’m currently learning Node Js, React Native, and Flutter.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
 
 
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
 </div>
 
 
