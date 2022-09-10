@@ -8,5 +8,6 @@ I’m currently learning Node Js, React Native, and Flutter.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
 
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![linkedin](https://img.shields.io/badge/LinkedIn-#0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=White)
+
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
