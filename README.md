@@ -23,7 +23,7 @@
 I am a Front-End Developer and Marketing Analyst.
 
 
-- : Exploring Full Stack Develpment and Technical Investigation Engineering (Cyber Security).
+- : Exploring Full Stack Develpment.
 
 - : In my free time, I build Apps and play Guitar.
 
