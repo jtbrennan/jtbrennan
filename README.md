@@ -25,8 +25,6 @@ I am a Front-End Developer and Marketing Analyst.
 
 - : Exploring Full Stack Develpment.
 
-- : In my free time, I build Apps and play Guitar.
-
 - : How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JohnBrennan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-brennan-25aaa1246/)
 
 
