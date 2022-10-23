@@ -60,8 +60,7 @@ I am a Front-End Developer and Marketing Analyst.
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg" alt="c++" width="40" height="40"/> </a> 
-<td>JavaScript, Java, TypeScript, Python, C++</td>
+<td>JavaScript, Java, TypeScript, Python</td>
 </tr>
 <tr>
 <td>Frontend Development</td>
