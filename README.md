@@ -86,17 +86,6 @@ I am a Front-End Developer and Marketing Analyst.
 <td>MongoDB, MySQL, PostgreSQL</td>
 </tr>
 <tr>
-<td>Devops</td>
-<td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </td>
-<td>Docker</td>
-</tr>
-<tr>
-<td>Backend as a Service(BaaS)</td>
-<td><a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- </td>
-<td>Heroku</td>
-</tr>
-<tr>
 <td>Framework</td>
 <td><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet&theme=light" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
