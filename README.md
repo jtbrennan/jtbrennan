@@ -145,10 +145,7 @@ I am a Front-End Developer and Marketing Analyst.
 <hr >
 &nbsp;
 
-<p align="center" ><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sidnysilva" /></p>
-
-&nbsp;
-<img src="https://github.com/jtbrennan/jtbrennan/blob/output/github-contribution-grid-snake.svg" alt="snakeGif"/>
+<p align="center" ><img width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtbrennan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jtbrennan" /></p>
 
 
 
