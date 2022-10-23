@@ -57,11 +57,11 @@ I am a Front-End Developer and Marketing Analyst.
 
 <h2 align="center">Contacts:</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/sidny-silva-a62829155/" target="_blank">
+  <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
     <img src="https://img.shields.io/badge/-Sidny-blue?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
-  <a href="mailto:sidny.galaxy@gmail.com">
-    <img src="https://img.shields.io/badge/-sidny.galaxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:johnpcandstocks@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </div>
 &nbsp;
