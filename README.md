@@ -50,20 +50,7 @@ I am a Front-End Developer and Marketing Analyst.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
 
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=sidnysilva&show_icons=true&theme=tokyonight&locale=en" alt="sidnysilva" /></p>
-&nbsp;
-
-<hr>
-
-<h2 align="center">Contacts:</h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
-    <img src="https://img.shields.io/badge/-Sidny-blue?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="mailto:johnpcandstocks@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</div>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en" alt="jtbrennan" /></p>
 &nbsp;
 
 <hr>
