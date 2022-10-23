@@ -28,7 +28,7 @@ I am a Front-End Developer and Marketing Analyst.
 
 ---
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johnnyb00&show_icons=true&locale=en" alt="johnnyb00" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en" alt="jtbrennan" /></p>
 &nbsp;
 
 <hr>
