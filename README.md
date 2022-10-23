@@ -52,7 +52,7 @@ I am a Front-End Developer and Marketing Analyst.
 <h2 align="center">Languages and Tools:</h2>
 &nbsp;
 
-<table class="teste" align="center" border="2">
+<table class="teste" align="center" border="1">
 
 <tr >
 <td >Programming languages</td>
