@@ -47,9 +47,6 @@ I am a Front-End Developer and Marketing Analyst.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jtbrennan)](https://github.com/jtbrennan/github-readme-stats)
-
-
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en" alt="jtbrennan" /></p>
 &nbsp;
 
