@@ -19,20 +19,13 @@
   </a>
 </div>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jtbrennan/count.svg" />
-</p>
 ---
 
 ### 💻: About Me :
 
 I am a Front-End Developer and Marketing Analyst.
 
-
 - : Exploring Full Stack Develpment.
-
-- : How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-JohnBrennan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-brennan-25aaa1246/)
 
 
 ---
