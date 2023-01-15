@@ -96,7 +96,10 @@ I am a Front-End Developer and Marketing Analyst.
 
 <hr/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=jtbrennan&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?
+          
+          
+          =jtbrennan&style=for-the-badge"/>
 </div>
 
 <div align="center">
@@ -124,7 +127,7 @@ I am a Front-End Developer and Marketing Analyst.
  <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C21FF7&width=435&lines=My+Contribution+Graph!" alt="Typing SVG" /></a></div>
   <p align="center" >
-  <img width="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahnawaz7hussain&theme=radical" alt="contributions_graph" />
+  <img width="auto" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jtbrennan&theme=radical" alt="contributions_graph" />
      <!-- <img width="auto" src="https://activity-graph.herokuapp.com/graph?username=jtbrennan&bg_color=01000a&color=6d5f6c&line=703e6c&point=b62b2b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" alt="contributions_graph" /> -->
   </p>
 
@@ -140,17 +143,6 @@ I am a Front-End Developer and Marketing Analyst.
       <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
         <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" /> 
 </p> -->
-
- <!-- Funny Random Joke -->
-
-<div align="center">
-  <h3>Now laughing time with random developer jokes😊.</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-<p align="center">
-  <code>Refresh the page for a new joke</code>
-</p>
-  
 
 
 
