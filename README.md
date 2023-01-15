@@ -82,10 +82,7 @@ I am a Front-End Developer and Marketing Analyst.
 </tr>
 </table>
 &nbsp;
-<hr >
-&nbsp;
-<hr/>
- 
+
 
 <!-- <div align="center">
 <a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
