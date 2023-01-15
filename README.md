@@ -6,12 +6,16 @@
 </div>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jtbrennan&style=for-the-badge"/>
+    <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jtbrennan&style=flat-square&color=blue" alt=""/>
-  
+</div>
+
+<div align="center">
+<img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/jtbrennan?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+<img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jtbrennan"/>
 </div>
 
 <p align="center"> 
@@ -95,14 +99,6 @@ I am a Front-End Developer and Marketing Analyst.
 
 
 <hr/>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=jtbrennan&style=for-the-badge"/>
-</div>
-
-<div align="center">
-<img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/jtbrennan?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-<img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jtbrennan"/>
-</div>
  
 
 <!-- <div align="center">
