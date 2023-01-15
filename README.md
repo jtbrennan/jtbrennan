@@ -30,8 +30,6 @@ I am a Front-End Developer and Marketing Analyst.
 
 ---
 
-
-<hr>
 <h2 align="center">Languages and Tools:</h2>
 &nbsp;
 
