@@ -55,9 +55,9 @@ I am a Front-End Developer and Marketing Analyst.
 <tr>
 <td>Backend Development</td>
 <td>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="express" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </td>
-<td>Express, NodeJS</td>
+<td>PHP, NodeJS</td>
 </tr>
 <tr>
 <td>Full Stack Development</td>
