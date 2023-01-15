@@ -8,14 +8,15 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jtbrennan&style=for-the-badge"/>
-    <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+
 </div>
 
 <div align="center">
 <img alt="followers count" src="https://custom-icon-badges.herokuapp.com/github/followers/jtbrennan?style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
 <img alt="stars count" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jtbrennan"/>
+      <a href="https://www.linkedin.com/in/john-brennan-25aaa1246/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <p align="center"> 
