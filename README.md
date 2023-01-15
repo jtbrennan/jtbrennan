@@ -96,7 +96,7 @@ I am a Front-End Developer and Marketing Analyst.
 
 <hr/>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?=jtbrennan&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=jtbrennan&style=for-the-badge"/>
 </div>
 
 <div align="center">
