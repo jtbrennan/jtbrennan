@@ -104,6 +104,12 @@ I am a Front-End Developer and Marketing Analyst.
   
   
   
+    
+<!--   <div>   -->
+<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en&theme=radical" alt="jtbrennan" /></p>
+<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jtbrennan&theme=radical" alt="jtbrennn" />
+<!-- </div> -->
+ 
   
   
   
