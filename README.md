@@ -98,11 +98,11 @@ I am a Front-End Developer and Marketing Analyst.
 <!-- 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtbrennan&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p> -->
   
-<p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical" alt="sahnawaz7hussain" /></p> 
+<p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical" alt="jtbrennan" /></p> 
 <!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical) -->
   
 <!--   <div>   -->
-<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en&theme=radical" alt="sahnawaz7hussain" /></p>
+<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en&theme=radical" alt="jtbrennan" /></p>
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jtbrennan&theme=radical" alt="sahnawaz7hussain" />
 <!-- </div> -->
  
