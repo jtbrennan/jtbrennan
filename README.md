@@ -96,16 +96,19 @@ I am a Front-End Developer and Marketing Analyst.
 
 <h2 align="center"> 📊 My Github Stats<h2>
 <!-- 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtbrennan&show_icons=true&locale=en&layout=compact&theme=radical" alt="sahnawaz7hussain" /></p> -->
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtbrennan&show_icons=true&locale=en&layout=compact&theme=radical" alt="jtbrennan" /></p> -->
   
 <p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical" alt="jtbrennan" /></p> 
 <!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical) -->
+
   
-<!--   <div>   -->
-<p><img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=jtbrennan&show_icons=true&locale=en&theme=radical" alt="jtbrennan" /></p>
-<img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=jtbrennan&theme=radical" alt="sahnawaz7hussain" />
-<!-- </div> -->
- 
+  
+  
+  
+  
+  
+  
+  
  <div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C21FF7&width=435&lines=My+Contribution+Graph!" alt="Typing SVG" /></a></div>
   <p align="center" >
