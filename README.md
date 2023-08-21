@@ -23,9 +23,9 @@
 
 ### 💻: About Me :
 
-I am a Front-End Developer and Marketing Analyst.
+I am a Software Developer and IT Manager.
 
-- : Exploring Full Stack Develpment.
+- : Exploring Senior Roles.
 
 
 ---
