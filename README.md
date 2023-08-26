@@ -44,7 +44,7 @@ I am a Software Developer and IT Manager.
   
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<td>JavaScript, Java, TypeScript, Python</td>
+<td>JavaScript, C#, Java, TypeScript, Python</td>
 </tr>
 <tr>
 <td>Frontend Development</td>
@@ -58,15 +58,17 @@ I am a Software Developer and IT Manager.
 <tr>
 <td>Backend Development</td>
 <td>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </td>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  </td>
-<td>PHP, NodeJS</td>
+<td>Node.JS, PHP</td>
 </tr>
 <tr>
 <td>Full Stack Development</td>
 <td>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="nodejs" width="40" height="40"/> </a>  </td>
-<td>Angular</td>
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".Net Core" width="40" height="40"/> </a> 
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="Angular" width="40" height="40"/> </a> 
+</td>
+<td>.Net Core, Angular</td>
 </tr>
 <tr>
 <td>Database</td>
