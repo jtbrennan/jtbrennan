@@ -23,10 +23,9 @@
 
 ### 💻: About Me :
 
-I am a Software Developer and IT Manager.
+I am a Software Developer. I am also Founder of Frontier Security Testing, HCDU, and the Coding Blueprint Collective.
 
 - : Exploring Senior Roles.
-
 
 ---
 
