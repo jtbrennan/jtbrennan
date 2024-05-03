@@ -23,7 +23,7 @@
 
 ### 💻: About Me :
 
-I am a Software Developer. I am also Founder of Frontier Security Testing, HCDU, and the Coding Blueprint Collective.
+I am a Software Developer, Founder of Valar Tech, Frontier Testing, and Full Stack Forge.
 
 - : Exploring Senior Roles.
 
