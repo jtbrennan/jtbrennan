@@ -23,9 +23,9 @@
 
 ### 💻: About Me :
 
-I am a Software Developer, Founder of Valar Tech, Frontier Testing, and Full Stack Forge.
+I am a Full Stack Developer, Founder of Valar Tech, and the Full Stack Forge.
 
-- : Exploring Senior Roles.
+- : Always exporing new opportunities. 
 
 ---
 
