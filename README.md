@@ -97,16 +97,6 @@ I am a Full Stack Developer, Founder of Valar Tech, and the Full Stack Forge.
 <!-- <div align="center">
 <a href="https://wakatime.com/@2fc99edb-7b44-4c2d-9d7b-35326eca8ec0"><img src="https://wakatime.com/badge/user/2fc99edb-7b44-4c2d-9d7b-35326eca8ec0.svg?style=for-the-badge" alt="Total time coded since Jan 22 2022" /></a>
 </div> -->
-
-<h2 align="center"> 📊 My Github Stats<h2>
-<!-- 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtbrennan&show_icons=true&locale=en&layout=compact&theme=radical" alt="jtbrennan" /></p> -->
-  
-<p align="center" ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical" alt="jtbrennan" /></p> 
-<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jtbrennan&theme=radical) -->
-
-  
-  
   
     
 <!--   <div>   -->
