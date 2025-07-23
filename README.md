@@ -23,9 +23,8 @@
 
 ### 💻: About Me :
 
-I am a Full Stack Developer, Founder of Valar Tech, and the Full Stack Forge.
+I am a Software Engineer, I like building things.
 
-- : Always exporing new opportunities. 
 
 ---
 
